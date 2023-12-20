@@ -1,4 +1,4 @@
-# Sasso-Carta-Forbici-basic-Android
+# Sasso, carta, forbici -android app
 
 Questo è un semplice gioco di "Sasso, Carta, Forbici" implementato per Android. Il gioco consente ai giocatori di selezionare una scelta tra "Sasso", "Carta" e "Forbici" e quindi confronta la scelta del giocatore con una scelta casuale generata dal computer. In base alle regole del gioco, viene determinato un vincitore e viene visualizzato il risultato sullo schermo.
 
